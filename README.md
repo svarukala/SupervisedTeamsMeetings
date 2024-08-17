@@ -1,0 +1,2 @@
+# SupervisedTeamsMeetings
+Supervised meetings solution
